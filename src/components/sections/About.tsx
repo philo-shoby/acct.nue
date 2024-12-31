@@ -14,10 +14,10 @@ const About = () => {
           <div
             data-aos="fade-right"
             data-aos-offset="200"
-            className="relative h-[400px] rounded-lg overflow-hidden"
+            className="relative flex  rounded-lg overflow-hidden"
           >
             <img
-              src="/assets/AboutUs.jpg"
+              src="/assets/about_us.jpg"
               alt="Professional team meeting"
               className="w-full h-full object-cover"
             />

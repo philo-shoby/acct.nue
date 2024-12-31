@@ -4,15 +4,15 @@ import { Building2, Phone, Mail, MapPin } from 'lucide-react';
 const ContactInfo = () => {
   const contactDetails = [
     {
-      icon: <Building2 className="h-10 w-10 text-[#6c2cac] mr-2"/>,
+      icon: <Building2 className="flex-shrink-0 h-10 w-10 text-[#6c2cac] mr-2"/>,
       text: '3rd Floor, Jac Tower, Ikkandawarier Road, Thrissur - 680005, Kerala.'
     },
     {
-      icon: <Phone className="h-10 w-10 text-[#6c2cac] mr-2"/>,
+      icon: <Phone className="flex-shrink-0 h-10 w-10 text-[#6c2cac] mr-2"/>,
       text: '+91 9846396677'
     },
     {
-      icon: <Mail className="h-10 w-10 text-[#6c2cac] mr-2"/>,
+      icon: <Mail className="flex-shrink-0 h-10 w-10 text-[#6c2cac] mr-2"/>,
       text: 'info@acctnue.com'
     }
   ];
@@ -28,7 +28,7 @@ const ContactInfo = () => {
           </div>
         ))}
         <div className="flex items-center text-xl">
-          <MapPin className="h-10 w-10 text-[#6c2cac] mr-2"/>
+          <MapPin className="flex-shrink-0 h-10 w-10 text-[#6c2cac] mr-2"/>
           <a href="https://maps.app.goo.gl/zdfg5f6GyJLP35DR8" 
            className="font-sans text-white text-xl underline hover:text-[#b063ff]">Get Directions</a>
         </div>

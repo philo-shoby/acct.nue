@@ -32,7 +32,7 @@ const Navigation = () => {
             <img
               src="/assets/acctnue_logo.png"
               alt="Acctnue Logo"
-              className="ml-2 w-full h-20 img-fluid"
+              className="ml-2 w-35 h-20 img-fluid"
             />
           </div>
           

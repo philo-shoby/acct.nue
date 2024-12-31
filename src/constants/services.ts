@@ -2,7 +2,7 @@ export const services = [
   {
     title: 'Accounting',
     description: 'Comprehensive accounting services to manage and streamline your financial operations.',
-    image: '~/assets/accounting.jpg',
+    image: '/assets/accounting.jpg',
     subServices: [
       'Finance & Accounts',
       'Accounts Finalization',
@@ -12,7 +12,7 @@ export const services = [
   {
     title: 'Consulting',
     description: 'Expert consulting services to help your business grow and navigate complex challenges.',
-    image: '~/assets/consulting.jpg',
+    image: '/assets/consulting.jpg',
     subServices: [
       'Management Consultancy',
       'Business Startups',
@@ -28,7 +28,7 @@ export const services = [
   {
     title: 'Assurance',
     description: 'Comprehensive assurance services to provide confidence and mitigate risk in your financial operations.',
-    image: '~/assets/assurance.jpg',
+    image: '/assets/assurance.jpg',
     subServices: [
       'Statutory Audit',
       'Internal Audit',
@@ -39,7 +39,7 @@ export const services = [
   {
     title: 'Tax',
     description: 'Expert tax advisory services to ensure compliance and optimize your tax position.',
-    image: '~/assets/tax.jpg',
+    image: '/assets/tax.jpg',
     subServices: [
       'Representation of clients with statutory Authorities',
       'Income Tax Audit',

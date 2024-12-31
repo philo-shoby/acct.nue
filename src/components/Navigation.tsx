@@ -30,7 +30,7 @@ const Navigation = () => {
         <div className="flex justify-between h-20 items-center">
           <div className="flex items-center">
             <img
-              src="~/assets/acctnue_logo.png"
+              src="/assets/acctnue_logo.png"
               alt="Acctnue Logo"
               className="ml-2 w-full h-20 img-fluid"
             />

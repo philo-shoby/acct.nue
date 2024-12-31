@@ -17,7 +17,7 @@ const About = () => {
             className="relative h-[400px] rounded-lg overflow-hidden"
           >
             <img
-              src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80"
+              src="./assets/AboutUs.jpg"
               alt="Professional team meeting"
               className="w-full h-full object-cover"
             />

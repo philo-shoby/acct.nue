@@ -29,7 +29,7 @@ const ContactInfo = () => {
         ))}
         <div className="flex items-center text-xl">
           <MapPin className="flex-shrink-0 h-10 w-10 text-[#6c2cac] mr-2"/>
-          <a href="https://maps.app.goo.gl/zdfg5f6GyJLP35DR8" 
+          <a href="https://maps.app.goo.gl/73S6abC3bcZ5ACcs5" 
            className="font-sans text-white text-xl underline hover:text-[#b063ff]">Get Directions</a>
         </div>
       </div>
